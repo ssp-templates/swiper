@@ -1,0 +1,14 @@
+{
+  "name": "ssp-swiper-template",
+  "version": "1.0.0",
+  "description": "Ssp Swiper Template",
+  "scripts": {
+    "start": "ssp start",
+    "build": "ssp build"
+  },
+  "dependencies": {
+    "swiper": "^3.4.0",
+    "zepto": "^1.2.0",
+    "preloader.js": "^1.0.0"
+  }
+}
